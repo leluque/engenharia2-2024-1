@@ -1,4 +1,4 @@
-# Análise e modelagem de negócio
+# Modelagem de negócio
 
 ## 1. Problema
 
