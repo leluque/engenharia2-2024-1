@@ -1,4 +1,4 @@
-# Modelagem de negócio
+# Negócio
 
 ## 1. Problema
 
