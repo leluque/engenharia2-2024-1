@@ -1,4 +1,4 @@
-# Modelagem de negócio
+# Documento de Negócio
 
 ## 1. Problema
 
