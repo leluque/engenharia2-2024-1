@@ -1,4 +1,4 @@
-# Documento de Negócio
+# Negócio
 
 ## 1. Problema
 
